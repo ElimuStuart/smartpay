@@ -1,3 +1,5 @@
+<img src="icon.png">
+
 Build & Style The UI
 Step 1
 Style the BODY element with a white background color.
