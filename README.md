@@ -1,4 +1,4 @@
-<img src="icon.png">
+<img src="Screenshot from 2019-08-07 02-33-22.png">
 
 Build & Style The UI
 Step 1
